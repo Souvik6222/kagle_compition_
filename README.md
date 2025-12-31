@@ -24,7 +24,6 @@ The dataset is provided by Kaggle and contains the following files:
 
 ## 🛠️ Project Structure
 kagle_compition/
-│
 ├── Binary Classification with a Bank Dataset/
 │   ├── bank.ipynb
 │   ├── sample_submission.csv
@@ -54,5 +53,6 @@ kagle_compition/
 │   └── train.csv
 │
 └── README.md
+
 
 
