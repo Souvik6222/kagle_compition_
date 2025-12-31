@@ -24,14 +24,33 @@ The dataset is provided by Kaggle and contains the following files:
 
 ## 🛠️ Project Structure
 ```text
-├── data/                   # Dataset files (ignored by git)
-├── notebooks/              # Jupyter Notebooks for EDA and modeling
-│   ├── 01_eda.ipynb        # Exploratory Data Analysis
-│   ├── 02_preprocessing.ipynb # Feature Engineering & Cleaning
-│   └── 03_modeling.ipynb   # Model Training & Evaluation
-├── src/                    # Source code for modular scripts
-│   ├── preprocess.py       # Data preprocessing functions
-│   └── train.py            # Training script
-├── submissions/            # Generated submission CSVs
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
+kagle_compition/
+├── Binary Classification with a Bank Dataset/
+│   ├── bank.ipynb
+│   ├── sample_submission.csv
+│   ├── test.csv
+│   └── train.csv
+│
+├── Diabetes Prediction Challenge/
+│   ├── ml.ipynb
+│   ├── sample_submission.csv
+│   ├── submission_improved.csv
+│   ├── test.csv
+│   └── train.csv
+│
+├── Road Accident Risk/
+│   ├── road.ipynb
+│   ├── sample_submission.csv
+│   ├── submission_xgb.csv
+│   ├── test.csv
+│   └── train.csv
+│
+├── spaceship_titanic/
+│   ├── titanic_spaceship/
+│   ├── sample_submission.csv
+│   ├── space.ipynb
+│   ├── submission5.csv
+│   ├── test.csv
+│   └── train.csv
+│
+└── README.md
