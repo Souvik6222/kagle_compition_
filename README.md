@@ -1,4 +1,4 @@
-# 🏆 [Insert Competition Name Here]
+# 🏆 [-ALL KAGGLE COMPETATION-]
 
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
