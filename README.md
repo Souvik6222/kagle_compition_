@@ -23,7 +23,7 @@ The dataset is provided by Kaggle and contains the following files:
 ---
 
 ## 🛠️ Project Structure
-kagle_compition_/
+kagle_compition/
 │
 ├── Binary Classification with a Bank Dataset/
 │   ├── bank.ipynb
@@ -46,7 +46,7 @@ kagle_compition_/
 │   └── train.csv
 │
 ├── spaceship_titanic/
-│   ├── titanic_spaceship
+│   ├── titanic_spaceship/
 │   ├── sample_submission.csv
 │   ├── space.ipynb
 │   ├── submission5.csv
@@ -54,4 +54,5 @@ kagle_compition_/
 │   └── train.csv
 │
 └── README.md
+
 
